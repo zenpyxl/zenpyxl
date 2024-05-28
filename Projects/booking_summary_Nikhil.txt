@@ -1,0 +1,10 @@
+---------- Booking Summary ----------
+PRIME-1 TicketsPVR: Lulu, Trivandrum                               Rs. 530
+Convenience fees               Rs. 117.2625
+Base Amount                    Rs. 99.375
+Integrated GST (IGST) @ 18%    Rs. 17.8875
+Food & Beverage                Rs. 190
+---------- Cart Contents ----------
+Cheese Popcorn (Medium)x1: Rs. 190
+-----------------------------------
+Sub Total                      Rs. 837
